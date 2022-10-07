@@ -1,4 +1,5 @@
 # brockers
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+For my project stuff
+>>>>>>> b627b338f5b742ffb1aaf4cc8ed73a61e95e8e7b
